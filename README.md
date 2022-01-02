@@ -28,6 +28,7 @@ web app made with MEAN stack (Mongo, Express, Angular, Node.js). Makes a CRUD of
 4 - En la terminal del cliente, correr ng serve. La app se abre en el puerto 4200.
 
 English
+
 1 - Download the repo in the main branch
 
 2 - Put two terminals on server and client and run npm install on both.
